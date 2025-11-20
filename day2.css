@@ -1,0 +1,27 @@
+/* body{
+    background-color: aqua;
+} */
+/* *{
+    background-color: aqua;
+    text-align: center;
+} 
+h1,p{
+    background-color: brown;
+} */
+
+#p1{
+    border: 2px solid black;
+    border-style: dotted;
+    border-radius: 100px ;
+    margin :50px 100px;
+    padding: 50px 100px;
+}
+.para{
+    border: 2px solid green ;
+    margin: 50px 100px;
+    padding: 20px 40px;
+    border-style: dashed;
+    border-radius: 10px 100px;
+    
+    
+}
